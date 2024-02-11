@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<header>
+<div class="header">
+<div id="top-header">
+   <div id="logo">
+   <div style="text-align:center;">
+   <img src="C:\Users\Client\Documents\link\images\logo.jpg"style="width:100px;">
+
+<title>Panacea's Touch</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+  	<h1 style="text-align:center;font-family:Georgia;">PANACEA'S TOUCH</h1>
+  	<h4 style="text-align:center;font-family:Georgia;">Health and Wellness Haven</h4>
+	
+</div>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="icon-bar">
+<div style="text-align:center;">
+  <a class="active" href="#"><i class="fa fa-home"></i></a>
+  <a href="#"><i class="fa fa-search"></i></a>
+  <a href="#"><i class="fa fa-envelope"></i></a>
+  <a href="#"><i class="fa fa-globe"></i></a>
+  <a href="#"><i class="fa fa-trash"></i></a>
+</div>
+
+<div class="topnav">
+<div style="text-align:center;">
+
+  <input type="text" placeholder="Search..">
+</div>
+
+
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+</style>
+</head>
+
+
+<nav>
+<ul>
+<br>
+	<a href="#">About Us</a>
+<br>
+	<a href="#">Our Services</a>
+<br>
+	<a href="#">Contact Us</a>
+</ul>
+</nav>
+
+
+
+<div class="background">
+<div style="text-align: center;">
+<img width="400" src="C:\Users\Client\Documents\link\images\hosp.jpg">
+</div>
+
+
+<body>
+<body style="background-color:pink;">
+
+<br>
+<br>
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      	<h2 style="text-align:center;font-family:Georgia;">ABOUT US</h2>
+      	<p style="text-align: justify;font-family:Georgia;">Panacea's Touch is a leading provider of nursing health and wellness services in the Philippines. Our team of highly skilled and compassionate nurses is dedicated to providing top-notch care to our clients, ensuring their well-being and comfort at all times. Whether it's in-home care, wellness checks, or specialized nursing services, Panacea's Touch is committed to delivering the highest standard of care to meet our clients' needs.With a focus on professionalism and personalized care, Panacea's Touch is the trusted choice for individuals and families seeking reliable nursing services in the Philippines. Our dedication to excellence and commitment to our clients' health and wellness sets us apart as a leader in the industry.</p>
+	<p style="text-align: justify;font-family:Georgia;">We at Panacea's Touch, recognize the value of preserving optimum health and wellbeing. Our services are made to meet the specific requirements of each individual, making sure they get the best possible care and support available. Panacea's Touch is ready to help, whether you need wellness consultations, in-home nursing care, or specialized health services. Discover the difference with Panacea's Touch, the Philippines' reliable nursing health and wellness partner.</p>
+
+<hr class="rounded">
+<br>
+
+	<h3 style="text-align:center;font-family:Georgia;">Services Offered: </h3>
+<br>
+<br>
+	<h3 style="text-align:justify;font-family:Georgia;">Physical Well-being</h3>
+        <p>Information on how to stay physically well, including how to prevent and manage work-related injuries, how to stay active throughout long hours, and exercise regimens that fit into the hectic schedules of nurses.</p>
+	<img src="C:\Users\Client\Documents\link\images\p2.jpg" alt="p2" width="1500" height="300">
+</div>
+<hr class="dashed">
+<br>
+        <h3 style="text-align:justify;font-family:Georgia;">Stress Management Tips</h3>
+        <p>Articles and other resources intended to assist nurses in managing the heavy workloads associated with their line of work. This could involve stress-reduction tactics, mindfulness exercises, and relaxation methods.</p>
+	<img src="C:\Users\Client\Documents\link\images\p1.jpg" alt="p1" width="1500" height="300">
+</div>
+<hr class="dashed">
+<br>
+ 	<h3 style="text-align:justify;font-family:Georgia;">Nutrition and Healthy Eating</h3>
+        <p>Nutrition-related content catered to medical professionals' need. This could include suggestions for meal plans, wholesome snack ideas for hectic work shifts, and instructions on how to keep a balanced diet even with irregular working hours.</p>
+	<img src="C:\Users\Client\Documents\link\images\p6.jpg" alt="p6" width="1500" height="300">
+</div>
+<hr class="dashed">
+<br>
+
+	<h3 style="text-align:justify;font-family:Georgia;">Mental Health Support</h3>
+        <p>Resources and information about mental health, taking care of oneself, and getting help while facing emotional difficulties in the nursing profession. This could include reading articles that address the significance of mental health and minimize asking for help.</p>
+	<img src="C:\Users\Client\Documents\link\images\p8.jpg" alt="p8" width="1500" height="300">
+</div>
+<hr class="dashed">
+<br>
+
+	<h3 style="text-align:justify;font-family:Georgia;">Nursing Seminar Series</h3>
+        <p>Develop a series of informative seminars for nursing professionals to stay updated with the latest trends and practices in healthcare.</p>
+	<img src="C:\Users\Client\Documents\link\images\1.jpg" alt="1" width="1500" height="300">
+</div>
+<hr class="dashed">
+<br>
+	<h3 style="text-align:justify;font-family:Georgia;">Guest Posts and Personal Stories</h3>
+        <p>Nurses' personal experiences and wellness journeys are included in guest postings. Stories on overcoming burnout, achieving work-life balance, and making self-care a priority in a challenging career could be included.</p>
+	<img src="C:\Users\Client\Documents\link\images\p9.jpg" alt="p9" width="1500" height="300">
+</div>
+<hr class="dashed">
+<br>
+	<h3 style="text-align:justify;font-family:Georgia;">Well-being Resources</h3>
+        <p>Offering links to relevant resources, including support groups, mental health hotlines, and wellness applications created especially intended for healthcare workers.</p>
+	<img src="C:\Users\Client\Documents\link\images\p10.jpg" alt="p10" width="1500" height="300">
+
+
+
+<div class="container">
+  <img src="C:\Users\Client\Documents\link\images\dp1.jpg" style="width:90px">
+  <p><span>Chris Fox.</span> CEO at Mighty Schools.</p>
+  <p>"Panacea's Touch provided exceptional care and support. The staff was knowedgeable and compassionate, making my experience truly comforting. I highly recommend their services for anyone in need of nursing health and wellness in the Philippines and wherever you are. Thank you for your dedication and professionalism".</p>
+</div>
+
+<div class="container">
+  <img src="C:\Users\Client\Documents\link\images\dp.jpg" style="width:90px">
+  <p><span>Rebecca Flex.</span> CEO at Company.</p>
+  <p>"Panacea's Touch provided me with an exceptional care and support. The staff were knowledgeable, compassioante, and went above and beyond. I am grateful for their dedication to providing top-notch nursing and wellness services".</p>
+</div>
+
+<div>
+<div style="text-align: center;">
+	<h3 style=text-align:justify;font-family:Georgia;">Contact Us Today!</h3>
+	<p>Complete the form below to get in touch with us. We are here to help and answer any questions and listen to the stories you may have.</p>
+</div>
+<div class="container">
+<form action="Contact Us Today!">
+<div style="text-align: center;">
+    <label for="name">Name</label>
+    <input type="text" id="fname" name="name" placeholder="Your name..">
+
+    <label for="e-mail">E-mail</label>
+    <input type="text" id="e-mail" name="e-mail" placeholder="Your E-mail">
+
+    <label for="country">Country</label>
+    <select id="country" name="country">
+	<option value="philippines">Philippines</option>
+     	<option value="australia">Australia</option>
+      	<option value="canada">Canada</option>
+      	<option value="usa">USA</option>
+    </select>
+
+    <label for="message">Message</label>
+    <textarea id="message" name="message" placeholder="Write something.." style="height:10px"></textarea>
+
+    <input type="submit" value="Send">
+
+  </form>
+</div>
+
+<div>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div style="text-align:center;">
+	<a href="#" class="fa fa-facebook"></a>
+	<a href="#" class="fa fa-twitter"></a>
+	<a href="#" class="fa fa-instagram"></a>
+
+</body>
+</html>
